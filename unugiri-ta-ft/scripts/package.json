@@ -1,0 +1,10 @@
+{
+  "name": "unugiri-ta-ft-naskah",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Generator naskah proposal/skripsi FT UNUGIRI (.docx)",
+  "license": "MIT",
+  "dependencies": {
+    "docx": "^9.5.0"
+  }
+}
